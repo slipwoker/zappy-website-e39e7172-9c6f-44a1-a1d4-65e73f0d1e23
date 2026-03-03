@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו את מגוון עפרונות הצבע המקצועיים של Kalour עם 520 צבעים עשירים. פיגמנטציה מעולה, עמידות יוצאת דופן וידידותיות לסביבה לאמנים תובעניים.
+
+### עפרונות
+https://example.com/pencils
+סדרות עפרונות Kalour 180, 240 ו-300 - איכות מקצועית עם פיגמנטים עשירים ועמידות יוצאת דופן. הכלים המושלמים ליצירה אמנותית ברמה הגבוהה ביותר.
+
+### 520 צבעים
+https://example.com/colors
+התנסו במגוון הצבעים המרהיב של Kalour - 520 גוונים ייחודיים לביטוי אמנותי חופשי. מצבעי פסטל עדינים ועד גוונים עזים ותוססים - כל הספקטרום בהישג יד.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות על מוצרי Kalour? צוות המומחים שלנו כאן כדי לסייע לכם למצוא את עפרונות הצבע המושלמים לפרויקט האמנותי הבא שלכם. צרו קשר עוד היום!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Kalour
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Kalour
+
+### Category
+https://example.com/category/:slug
+מוצרים - Kalour
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
